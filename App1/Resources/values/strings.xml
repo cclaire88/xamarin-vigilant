@@ -1,0 +1,5 @@
+<resources>
+    <string name="openCamera">Open Camera</string> 
+    <string name="app_name">App1</string>
+    <string name="action_settings">Settings</string>
+</resources>
